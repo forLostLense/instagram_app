@@ -1,24 +1,12 @@
-# README
+# forLostLense's Instagram
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* This app is an Instagram-like site that supports functionality such as
+SignIn/SignUp, create a post with description and browse posts. The development
+environment is Rails. The app is created following the tutorial below.
+https://www.youtube.com/watch?v=MpFO4Zr0EPE (Links to an YouTube tutorial.)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Screenshots
+** Register,
+** Login/Logout,
+** Adding a new post,
+** Browse posts
